@@ -1,9 +1,0 @@
-name: myenv
-channels:
-  - defaults
-dependencies:
-  - numpy
-  - pandas
-  - matplotlib
-  - bokeh
-  - ipywidgets
